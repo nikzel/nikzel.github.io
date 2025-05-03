@@ -1,0 +1,28 @@
+domain: 
+url: "https://nickvanekris.nl"
+baseurl:
+
+title: nick's website
+email: nickvanekris@gmail.com
+author: nick van ekris
+
+lang: en
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+color: "#13ccf9"
+disqus:
+  shortname: nickvanekris
+#
+rrss:
+#  email: "example@example.cl"
+#  telegram: "https://t.me/"
+#  discord: "https://discord.com/"
+
+picture:
+  source: "assets/images/fullsize"
+  output: "assets/images/generated"
+  suppress_warnings: true
+  ignore_missing_images: true

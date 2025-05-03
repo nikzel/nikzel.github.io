@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "carwash"
+date: 2022-01-01 22:41:05 +0200
+categories: post
+comments: true
+menu: main
+image: 
+preview: "willekeurige video"
+---
+<center>
+  <video controls preload="true" width="500">
+    <source src="/assets/images/fullsize/carwash/VID_141760314_184758_220.mp4" type="video/mp4">
+  </video>
+</center>
+

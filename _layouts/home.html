@@ -1,0 +1,52 @@
+---
+layout: base
+---
+<div class="flex justify-center py-8 ">
+  <article class="text-center prose prose-p:font-extralight prose-slate dark:prose-invert primary-underline">
+    {{ content }}
+  </article>
+</div>
+
+<div id="masonry-grid" class="masonry-item mb-6 w-[100%] sm:w-[300px]" style="margin: 0 auto;">
+  {% for post in site.posts %}
+  {% if post.menu == "main" %}
+  <div class="masonry-item mb-6" style="width: 300px;">
+    <div
+      class="hover:underline hover:decoration-2 hover:underline-offset-4 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-104 duration-300">
+      <a href="{{ post.url | relative_url }}">
+        {% if post.image %}
+          {% assign file_extension = post.image | split: '.' | last %}
+          {% if file_extension == "gif" %}
+            <img class="w-full h-auto object-cover" src="{{ '/assets/images/fullsize' | append: post.image | relative_url }}" alt="GIF afbeelding">
+          {% else %}
+            {% picture jpt-webp {{ post.image | relative_url }} %}
+          {% endif %}
+        {% endif %}
+    <h1 class="text-lg lg:text-4xl pt-5 text-ellipsis overflow-hidden">{{ post.title }}</h1>
+    <h6 class="text-sm">{{ post.preview }}</h6>
+</a>
+    </div>
+
+    <div class="pt-2">
+      {% for tag in post.tags limit:3 %}
+      <span class="text-xs text-slate-700 dark:text-slate-100/80 align-middle">#{{tag}}</span>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var grid = document.querySelector('#masonry-grid');
+    imagesLoaded(grid, function() {
+      new Masonry(grid, {
+        itemSelector: '.masonry-item',
+        columnWidth: 300, // dit is key!
+        gutter: 20,
+        fitWidth: true // belangrijk om het te centreren
+      });
+    });
+  });
+</script>
