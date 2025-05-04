@@ -10,7 +10,7 @@ preview: "Een Peugeot 106 uit 2002, die ik inmiddels alweer een jaar geleden heb
 ---
 Ik had mijn BMW E46 al twee jaar, maar ik gebruikte hem niet vaak. Meestal alleen om naar het treinstation te rijden en weer terug. Toch kostte hij behoorlijk wat, en het onderhoud was allesbehalve goedkoop. Als student zijnde was het eigenlijk niet logisch om zo’n auto te hebben, dus besloot ik op zoek te gaan naar iets anders. Ik wilde iets kleiners, iets waar ik geen 'fuck' om hoefde te geven, maar wat wel alsnog leuk was. Na ongeveer twee maanden zoeken vond ik eindelijk de perfecte – of beter gezegd, imperfecte – auto.
 
-{% picture claire/52-NH-KN-img-640f9891e0ec8b986b6035d75e7b38c3_thumb.jpg %}
+![](assets/images/claire/52-NH-KN-img-640f9891e0ec8b986b6035d75e7b38c3_thumb.jpg)
 <center>
 Foto van Marktplaats
 </center>
@@ -18,11 +18,11 @@ Foto van Marktplaats
 
 Ontmoet Claire. Een Peugeot 106 uit 2002 die ik inmiddels alweer een jaar geleden heb gekocht, en ze heeft mij nog nooit in de steek gelaten. Ik heb 'm opgehaald bij een dealer in Culemborg. Op de marktplaats foto's zag hij er mooi uit, en de kilometers vielen best mee. In realiteit zag de auto er niet best uit. Zelfs door de regen heen zag je de rare krassen op het dak, honderden deuken in de zijkant, en slecht-overgespoten delen. Maar, ik was op slag verliefd. Het is een auto met een verhaal! 
 
-{% picture claire/PXL_20231216_124428082.jpg %}
+![](assets/images/claire/PXL_20231216_124428082.jpg)
 
 Tijdens de testrit kwamen nog meer bijzondere dingen naar boven. De radio werkte niet, die had een code nodig die de dealer niet had. De leuningen van de stoelen bewogen mee bij het gas geven en remmen. De schakelpook viel elke keer uit elkaar. En hij remde voor geen meter. Prima argumenten om mee af te dingen dus, en niet veel later reed ik vrolijk naar huis. Na nieuwe remmen, een aliexpress schakelpook, een nieuwe radio en 4 nieuwe speakers van de blokker reed ie als een zonnetje. 
 
-{% picture claire/PXL_20240104_081726514.jpg %}
+![](assets/images/claire/PXL_20240104_081726514.jpg)
 
 Ik zie de aankoop van Claire als een soort 'keerpunt' voor mij. Ik was toendertijd veel bezig met het werken aan 'perfectionisme'. Het zat mij vaak in de weg, zo stak ik vaak té veel tijd in projecten en was ik nooit echt tevreden met de dingen die ik maakte. 
 
@@ -32,22 +32,22 @@ Binnenkort ga ik (als het goed is) een halfjaar naar Japan. Claire zal dan in de
 
 ---
 
-{% picture claire/PXL_20240127_132948134.jpg %}
+![](assets/images/PXL_20240127_132948134.jpg)
 <center>
 Nieuwe speakers van de Blokker installeren, ook achterin (dat is een flex met deze autos).
 </center>
 
-{% picture claire/PXL_20240124_115503714.jpg %}
+![](assets/images/PXL_20240124_115503714.jpg)
 <center>
 Een deel van mijn oliepijlstok is random afgebroken en drijft nu ergens rond in de carterpan (bekend probleem met deze autos).
 </center>
 
-{% picture claire/PXL_20240119_170830818.jpg %}
+![](assets/images/PXL_20240119_170830818.jpg)
 <center>
 Nieuwe radio, die sexy het zelfde kleur oranje is als de rest van het dashboard voor goede night driving vibes.
 </center>
 
-{% picture claire/PXL_20240921_084355323.jpg %}
+![](assets/images/PXL_20240921_084355323.jpg)
 <center>
 Blijkt ook heel erg praktisch, met een neerklapbare bank.
 </center>

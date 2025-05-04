@@ -20,7 +20,7 @@ Er wordt ons verzocht om achter een agent aan te rijden die ons richting het rö
 
 <center>
   <video muted controls preload="auto" width="300">
-    <source src="/assets/images/fullsize/bus_problemen/20220808_195908.mp4" type="video/mp4">
+    <source src="/assets/images/bus_problemen/20220808_195908.mp4" type="video/mp4">
   </video>
 </center>
 
@@ -28,7 +28,7 @@ Er wordt een scan van de bus gemaakt, om tot de conclusie te komen dat er inderd
 
 <center>
   <video muted controls preload="auto" width="300">
-    <source src="/assets/images/fullsize/bus_problemen/VID-20220809-WA0017.mp4" type="video/mp4">
+    <source src="/assets/images/bus_problemen/VID-20220809-WA0017.mp4" type="video/mp4">
   </video>
 </center>
 
@@ -38,7 +38,7 @@ Dus worden we aan de kant gezet. Niels en Alfred regelen de nieuwe tickets, terw
 
 _De aircopomp, of airconditioningpomp, is een essentieel onderdeel van het aircosysteem in je auto. Het zorgt ervoor dat het koelmiddel door het systeem wordt gepompt, waardoor de airco koude lucht kan blazen. Als de pomp vastloopt, stopt dit proces niet alleen, maar kan het ook schade veroorzaken aan andere onderdelen, zoals de multiriem (de snaar die meerdere systemen aandrijft, zoals de dynamo). Als die snaar knapt, valt niet alleen de airco uit, maar kan je auto volledig stil komen te staan. Daarom was dit voor ons een groot probleem: we wisten niet hoelang we nog konden rijden voordat het echt mis zou gaan._
 
-{% picture bus_problemen/IMG-20220809-WA0016.jpg %}
+![](assets/images/bus_problemen/IMG-20220809-WA0016.jpg)
 
 Eén ding is zeker, ik wil zo snel mogelijk weg uit Albanië. Dus starten we de bus en rijden we zo snel mogelijk de boot op. Eenmaal op de boot bel ik met de ANWB om onze situatie uit te leggen. Die vind het leuk, maar kan verder nog niet veel voor ons betekenen. Er wordt ons verteld om terug te bellen als we in Italië zijn aangekomen. 
 
@@ -74,9 +74,9 @@ Stap 2: bellen van de ANWB. Moeilijker dan gedacht. Na zo'n 1 à 2 uur in de wac
 
 En zo begint het wachten. In de zon. Ik dood de tijd met solitair, tetris, netflix series. De tijd tikt door en er is geen anwb in zicht. 4 Uur verstrijkt en we zijn alsnog aan het wachten, dus belde ik de ANWB opnieuw. Er wordt mij verteld dat ze ernaar gaan kijken. En plots, binnen 20 minuten, worden we opgehaald door de autoambulance. 
 
-{% picture bus_problemen/IMG-20220812-WA0002.jpg %}
-{% picture bus_problemen/IMG-20220809-WA0009.jpg %}
-{% picture bus_problemen/IMG-20220809-WA0008.jpg %}
+![](assets/images/bus_problemen/IMG-20220812-WA0002.jpg)
+![](assets/images/bus_problemen/IMG-20220809-WA0009.jpg)
+![](assets/images/bus_problemen/IMG-20220809-WA0008.jpg)
 
 We komen aan bij de… ja, wat is het eigenlijk? Ik kan moeilijk zeggen dat het een garage is; ze hadden maar net een schuurtje. Onze auto word neergezet, en ons word vriendelijk verzocht een taxi te nemen naar ons appartement. Die taxi? Die heeft ons volledig gescamd met een absurd bedrag. En dat appartement? Dat was gewoon _niet_ hetzelfde als op de foto’s die op booking.com stonden. Fijne avond!
 
@@ -100,7 +100,7 @@ Die rit naar de garage toe was toch wel de meest stressvolle 20 minuten van mijn
 
 Maar we kwamen aan, en mochten daar nogmaals het verhaal doen over wat er met de auto moest gebeuren. De man op kantoor zei: "Nee, dat kan helemaal niet." De 2e man op kantoor zei ook: "Dat kan niet." Toen werd er een monteur bij geroepen, en die zei: "kan prima".  
 
-{% picture bus_problemen/IMG-20220817-WA0005.jpg %}
+![](assets/images/bus_problemen/IMG-20220817-WA0005.jpg)
 
 Hé hé, de nieuwe snaar zat er eindelijk op. Na betalen en de fles wijn overhandigd te hebben konden we eindelijk onze reis doorzetten! Het was wel de rest van de rit met de raampjes open rijden, maar ach. 
 

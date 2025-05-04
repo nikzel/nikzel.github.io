@@ -12,23 +12,23 @@ preview: ""
 
 <center>
   <video controls preload="true" width="500">
-    <source src="/assets/images/fullsize/dierentuin/VID_158831220_195627_250.mp4" type="video/mp4">
+    <source src="/assets/images/dierentuin/VID_158831220_195627_250.mp4" type="video/mp4">
   </video>
 </center>
 
 ---
 
-{% picture dierentuin/IMG_0374.jpg %}
-{% picture dierentuin/IMG_0475.jpg %}
-{% picture dierentuin/IMG_0207.jpg %}
-{% picture dierentuin/IMG_0168.jpg %}
-{% picture dierentuin/IMG_0682.jpg %}
-{% picture dierentuin/IMG_0483.jpg %}
+![](assets/images/dierentuin/IMG_0374.jpg)
+![](assets/images/dierentuin/IMG_0475.jpg)  
+![](assets/images/dierentuin/IMG_0207.jpg)  
+![](assets/images/dierentuin/IMG_0168.jpg)  
+![](assets/images/dierentuin/IMG_0682.jpg)  
+![](assets/images/dierentuin/IMG_0483.jpg)  
 
 ---
 
-{% picture dierentuin/_MG_5793.jpg %}
-{% picture dierentuin/_MG_5703.jpg %}
-{% picture dierentuin/_MG_5709.jpg %}
-{% picture dierentuin/_MG_5765.jpg %}
-{% picture dierentuin/_MG_5775.jpg %}
+![](assets/images/dierentuin/_MG_5793.jpg)  
+![](assets/images/dierentuin/_MG_5703.jpg)  
+![](assets/images/dierentuin/_MG_5709.jpg)  
+![](assets/images/dierentuin/_MG_5765.jpg)  
+![](assets/images/dierentuin/_MG_5775.jpg)  

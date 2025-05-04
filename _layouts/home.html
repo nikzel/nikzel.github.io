@@ -16,11 +16,7 @@ layout: base
       <a href="{{ post.url | relative_url }}">
         {% if post.image %}
           {% assign file_extension = post.image | split: '.' | last %}
-          {% if file_extension == "gif" %}
-            <img class="w-full h-auto object-cover" src="{{ '/assets/images/fullsize' | append: post.image | relative_url }}" alt="GIF afbeelding">
-          {% else %}
-            {% picture jpt-webp {{ post.image | relative_url }} %}
-          {% endif %}
+            <img class="w-full h-auto object-cover" src="{{ '/assets/images/' | append: post.image | relative_url }}" alt="afbeelding">
         {% endif %}
     <h1 class="text-lg lg:text-4xl pt-5 text-ellipsis overflow-hidden">{{ post.title }}</h1>
     <h6 class="text-sm">{{ post.preview }}</h6>

@@ -10,7 +10,7 @@ preview: "willekeurige video"
 ---
 <center>
   <video controls preload="true" width="500">
-    <source src="/assets/images/fullsize/carwash/VID_141760314_184758_220.mp4" type="video/mp4">
+    <source src="/assets/images/carwash/VID_141760314_184758_220.mp4" type="video/mp4">
   </video>
 </center>
 

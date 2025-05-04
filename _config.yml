@@ -20,9 +20,3 @@ rrss:
 #  email: "example@example.cl"
 #  telegram: "https://t.me/"
 #  discord: "https://discord.com/"
-
-picture:
-  source: "assets/images/fullsize"
-  output: "assets/images/generated"
-  suppress_warnings: true
-  ignore_missing_images: true
