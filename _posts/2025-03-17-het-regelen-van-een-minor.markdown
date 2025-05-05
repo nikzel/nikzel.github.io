@@ -15,7 +15,7 @@ Het begon allemaal met goedkeuring krijgen voor de exchange. Windesheim gebruikt
 Op dat moment zat ik midden in mijn tweede jaar. Mijn vorige semester was niet bepaald vlekkeloos verlopen, en hoewel ik net al mijn herkansingen had afgerond, had ik de cijfers daarvan nog niet ontvangen. Dus, natuurlijk ontving ik een bericht dat ik niet genoeg studiepunten had, en of ik kon toelichten hoe ik deze ga behalen.
 
 Ik stuur dus een email terug met mijn plan, waarop ik het volgende antwoord krijg: 
-![](assets/images/minor-japan/Pasted-image-20250315015826.png)
+![](/assets/images/minor-japan/Pasted-image-20250315015826.png)
 Tja, lijkt niet echt alsof hij er veel vertrouwen in had. Voor context, het plan was gelukt en ik sloot het 2e jaar af met 120/120 studiepunten! (135 als we honoursprogramma meetellen ha)
 
 Daarna ging ik aan de gang met het kiezen van de juiste school. Windesheim heeft een aantal partneruniversiteiten waaruit je kunt kiezen. En die keuze kun je baseren op... de website's. Best lastig, zoals je je kan voorstellen. Dus besloot ik met zoveel mogelijk mensen te praten die zelf een exchange hadden gedaan. Wat bleek? Iedereen was ervan overtuigd dat hún exchange de beste was. Dus natuurlijk was hún universiteit ook de beste! 
@@ -38,8 +38,8 @@ Het was weer even stil. Tot ik weer plots een email ontving vanuit Kanagawa Univ
 
 Zo kwam ik terecht bij de Keurdokter. Een organisatie die zich een beetje specialiseert in dit soort dingen. Het probleem; het kost veel geld. Het voordeel; je hebt snel wat je nodig hebt. En nu weet ik dat mijn longen in topvorm zijn!
 
-![](assets/images/minor-japan/1.2.392.200046.100.2.1.206485326325.241210115301.1.1.1.1-f1.jpeg)
-![](assets/images/minor-japan/Pasted-image-20250126013722.png)
+![](/assets/images/minor-japan/1.2.392.200046.100.2.1.206485326325.241210115301.1.1.1.1-f1.jpeg)
+![](/assets/images/minor-japan/Pasted-image-20250126013722.png)
 
 Goed, ook dit weer op tijd in kunnen leveren en dus zijn we weer een stapje verder. Het is nu wachten op de CoE van Kanagawa University, zodat ik daarmee mijn VISA kan aanvragen. Ondertussen ben ik druk begonnen met het zoeken van een huisje. Het probleem hierbij is dat veel organisaties pas vrij last-moment werken. Al een huisje vinden 3 maanden van tevoren is niet echt een optie, behalve als je ook al 3 maanden aan huur wilt betalen.. Ik moet dus geduldig zijn. 
 

@@ -18,17 +18,17 @@ preview: ""
 
 ---
 
-![](assets/images/dierentuin/IMG_0374.jpg)
-![](assets/images/dierentuin/IMG_0475.jpg)  
-![](assets/images/dierentuin/IMG_0207.jpg)  
-![](assets/images/dierentuin/IMG_0168.jpg)  
-![](assets/images/dierentuin/IMG_0682.jpg)  
-![](assets/images/dierentuin/IMG_0483.jpg)  
+![](/assets/images/dierentuin/IMG_0374.jpg)
+![](/assets/images/dierentuin/IMG_0475.jpg)  
+![](/assets/images/dierentuin/IMG_0207.jpg)  
+![](/assets/images/dierentuin/IMG_0168.jpg)  
+![](/assets/images/dierentuin/IMG_0682.jpg)  
+![](/assets/images/dierentuin/IMG_0483.jpg)  
 
 ---
 
-![](assets/images/dierentuin/_MG_5793.jpg)  
-![](assets/images/dierentuin/_MG_5703.jpg)  
-![](assets/images/dierentuin/_MG_5709.jpg)  
-![](assets/images/dierentuin/_MG_5765.jpg)  
-![](assets/images/dierentuin/_MG_5775.jpg)  
+![](/assets/images/dierentuin/_MG_5793.jpg)  
+![](/assets/images/dierentuin/_MG_5703.jpg)  
+![](/assets/images/dierentuin/_MG_5709.jpg)  
+![](/assets/images/dierentuin/_MG_5765.jpg)  
+![](/assets/images/dierentuin/_MG_5775.jpg)  

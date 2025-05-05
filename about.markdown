@@ -11,7 +11,7 @@ Hoi hoi, ik ben Nick. Ik leef (waarschijnlijk) nog en reageer vaak net optijd op
 	</image>
 </center>
 
-<form action="https://nickvanekris.nl/Testing/api_test/email_invoeren.php" method="POST">
+<form action="https://nickzel.nl/Testing/api_test/email_invoeren.php" method="POST">
   <label for="email">Voer hier je email in om updates te ontvangen over mijn nieuwe posts:</label><br>
   <input type="email" id="email" name="email" required><br>
   <input type="submit" value="Inschrijven">
