@@ -7,7 +7,7 @@ permalink: /about/
 Hoi hoi, ik ben Nick. Ik leef (waarschijnlijk) nog en reageer vaak net optijd op Wordfeud. 
 
 <center>
-	<image src="/assets/images/IMG_5448-Edit~2.png" style= "width: 400px;">
+	<image src="/assets/images/nick-van-ekris.png" style= "width: 400px;">
 	</image>
 </center>
 
