@@ -4,7 +4,7 @@ title:  "festival van de stalen fallus, wat dat ook mag betekenen"
 date: 2025-04-06 22:41:05 +0200
 categories: post japan
 comments: true
-menu: main
+menu: 
 image: stalen_fallus/PXL_20250406_024205722.MP.jpg
 preview: ""
 ---
