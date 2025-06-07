@@ -3,6 +3,7 @@ layout: post
 title:  "nick bekijkt autos"
 date: 2025-04-20 22:41:05 +0200
 categories: embed
+
 comments: true
 menu: main
 image: autofanfesta/IMG_5865.jpg
@@ -24,6 +25,7 @@ Zie hieronder de foto's!
   <img src="/assets/images/autofanfesta/IMG_6303.jpg" style="width: 100%; margin-bottom: 10px; display: block;">
   <img src="/assets/images/autofanfesta/IMG_6297.jpg" style="width: 100%; margin-bottom: 10px; display: block;">
   <img src="/assets/images/autofanfesta/IMG_6247.jpg" style="width: 100%; margin-bottom: 10px; display: block;">
+  <img src="/assets/images/autofanfesta/IMG_5626-Edit.jpg" style="width: 100%; margin-bottom: 10px; display: block;">
   <img src="/assets/images/autofanfesta/IMG_6222.jpg" style="width: 100%; margin-bottom: 10px; display: block;">
   <img src="/assets/images/autofanfesta/IMG_6112.jpg" style="width: 100%; margin-bottom: 10px; display: block;">
   <img src="/assets/images/autofanfesta/IMG_6083.jpg" style="width: 100%; margin-bottom: 10px; display: block;">
@@ -34,7 +36,7 @@ Zie hieronder de foto's!
   <img src="/assets/images/autofanfesta/IMG_5792.jpg" style="width: 100%; margin-bottom: 10px; display: block;">
   <img src="/assets/images/autofanfesta/IMG_5604.jpg" style="width: 100%; margin-bottom: 10px; display: block;">
   <img src="/assets/images/autofanfesta/IMG_5569.jpg" style="width: 100%; margin-bottom: 10px; display: block;">
-  <img src="/assets/images/autofanfesta/IMG_5626-Edit.jpg" style="width: 100%; margin-bottom: 10px; display: block;">
+  
 
 
 

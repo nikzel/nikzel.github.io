@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Hoi hoi, ik ben Nick. Ik leef (waarschijnlijk) nog en reageer vaak net optijd op Wordfeud. 
+Hoi hoi, ik ben Nick.
+Deze website is eigenlijk mijn digitale dagboek, waarin ik bijhoud wat ik doe en hoe ik leef. Maar voel je vrij om rond te kijken!
 
 <center>
 	<image src="/assets/images/nick-van-ekris.png" alt="Nick van Ekris" style= "width: 400px;">

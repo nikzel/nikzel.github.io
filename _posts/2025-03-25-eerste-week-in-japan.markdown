@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "eerste week in japan"
+title:  "mijn eerste week in japan"
 date: 2025-03-25 22:41:05 +0200
 categories: post japan
 comments: true
