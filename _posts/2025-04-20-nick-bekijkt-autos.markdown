@@ -2,7 +2,7 @@
 layout: post
 title:  "nick bekijkt autos"
 date: 2025-04-20 22:41:05 +0200
-categories: post japan
+categories: embed
 comments: true
 menu: main
 image: autofanfesta/IMG_5865.jpg
