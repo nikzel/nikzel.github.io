@@ -7,7 +7,27 @@ categories: embed
 comments: true
 menu: main
 image: autofanfesta/IMG_5865.jpg
-preview: ""
+type: photo
+preview: "Fuji Speedway Museum & Motor Fan Festa"
+images:
+  - /assets/images/autofanfesta/IMG_6518.jpg
+  - /assets/images/autofanfesta/IMG_6499.jpg
+  - /assets/images/autofanfesta/IMG_6494.jpg
+  - /assets/images/autofanfesta/IMG_6421.jpg
+  - /assets/images/autofanfesta/IMG_6303.jpg
+  - /assets/images/autofanfesta/IMG_6297.jpg
+  - /assets/images/autofanfesta/IMG_6247.jpg
+  - /assets/images/autofanfesta/IMG_5626-Edit.jpg
+  - /assets/images/autofanfesta/IMG_6222.jpg
+  - /assets/images/autofanfesta/IMG_6112.jpg
+  - /assets/images/autofanfesta/IMG_6083.jpg
+  - /assets/images/autofanfesta/IMG_6031.jpg
+  - /assets/images/autofanfesta/IMG_5872.jpg
+  - /assets/images/autofanfesta/IMG_5865.jpg
+  - /assets/images/autofanfesta/IMG_5804-Edit.jpg
+  - /assets/images/autofanfesta/IMG_5792.jpg
+  - /assets/images/autofanfesta/IMG_5604.jpg
+  - /assets/images/autofanfesta/IMG_5569.jpg
 ---
 We zijn inmiddels alweer een maand in Japan. En het is hoog tijd om weer even tot rust te komen. Wat '_me-time_ '. En dat betekent; auto's kijken. 
 

@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hoi hoi, ik ben Nick.
-Deze website is eigenlijk mijn digitale dagboek, waarin ik bijhoud wat ik doe en hoe ik leef. Maar voel je vrij om rond te kijken!
+Welkom op mijn hoekje van het internet. Een plek die altijd in beweging is en nooit helemaal af. Neem een kijkje :)
 
+<!--
 <center>
 	<image src="/assets/images/nick-van-ekris.png" alt="Nick van Ekris" style= "width: 400px;">
 	</image>
@@ -17,3 +17,4 @@ Deze website is eigenlijk mijn digitale dagboek, waarin ik bijhoud wat ik doe en
   <input type="email" id="email" name="email" required><br>
   <input type="submit" value="Inschrijven">
 </form>
+--->

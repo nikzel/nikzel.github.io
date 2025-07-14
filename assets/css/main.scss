@@ -41,3 +41,8 @@ $primary_color: {{ site.color | default: "#a505f0" }};
    margin-bottom:5px; /* to match column gap */
    margin-top: 5px;
 }
+
+.lg-backdrop.in {
+    opacity: 0.5 !important
+}
+
