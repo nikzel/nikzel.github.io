@@ -5,7 +5,7 @@ date: 2025-05-26 10:00:00 +0200
 categories: post japan
 comments: true
 menu: main
-image: tsurukawa/PXL_20250526_074533457.MP.jpg
+image: tsurukawa/onigiri_maken_thumbnail.jpg
 preview: "Mijn huisbaas nodigde mij uit voor een leuke ervaring"
 type: photo
 images:

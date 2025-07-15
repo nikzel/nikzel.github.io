@@ -5,7 +5,7 @@ date: 2025-03-17 22:41:05 +0200
 categories: post japan
 comments: true
 menu: main
-image: minor-japan/PXL_20250321_034344360.MP.png
+image: minor-japan/minor_japan_thumbnail.png
 preview: "Helaas, het bleek niet zo simpel als even op een ‘inschrijven’-knop drukken. Nee, bereid je maar voor op een avontuur vol papierwerk, documenten en bureaucratie."
 ---
 Het idee spookte al een tijd door mijn hoofd, maar iets meer dan een jaar geleden hakte ik de knoop door: ik zou een minor in het buitenland gaan doen. Het land stond al vast—het moest Japan worden. Waarom? Geen idee eigenlijk, het heeft me altijd al gefascineerd. En hoe vaak krijg je de kans om een land écht te ontdekken voor zo’n lange periode? Dus ik ging aan de slag! Maar helaas, het bleek niet zo simpel als even op een ‘inschrijven’-knop drukken. Nee, bereid je maar voor op een avontuur vol papierwerk, documenten en bureaucratie.

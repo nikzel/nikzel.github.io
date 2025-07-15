@@ -3,10 +3,9 @@ layout: post
 title:  "nick bekijkt autos"
 date: 2025-04-20 22:41:05 +0200
 categories: embed
-
 comments: true
 menu: main
-image: autofanfesta/IMG_5865.jpg
+image: autofanfesta/nick_bekijkt_autos_thumbnail.jpg
 type: photo
 preview: "Fuji Speedway Museum & Motor Fan Festa"
 images:

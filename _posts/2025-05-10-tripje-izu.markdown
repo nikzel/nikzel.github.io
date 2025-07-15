@@ -4,8 +4,8 @@ title:  "Tripje naar Izu"
 date: 2025-05-10 22:41:05 +0200
 categories: post japan
 comments: true
-menu: 
-image: 
+menu: main
+image: izu_trip/izu_trip_thumbnail.jpg
 preview: ""
 ---
 We zijn niet bepaald druk met school, want het niveau ligt toch echt erg laag hier in Japan. Maar toch zijn we toe aan vakantie. Waar gaan we heen? Izu dit keer! Een peninsula ten zuiden van Yokohama. 

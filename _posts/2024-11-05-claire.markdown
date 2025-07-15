@@ -5,7 +5,9 @@ date: 2024-11-05 22:41:05 +0200
 categories: post voertuig claire
 comments: true
 menu: main
-image: claire/PXL_20240104_081726514.png
+image: claire/claire_thumbnail.png
+image_width: 300
+image_height: 398
 preview: "Een Peugeot 106 uit 2002, die ik inmiddels alweer een jaar geleden heb gekocht en die mij nog nooit in de steek heeft gelaten..."
 ---
 Ik had mijn BMW E46 al twee jaar, maar ik gebruikte hem niet vaak. Meestal alleen om naar het treinstation te rijden en weer terug. Toch kostte hij behoorlijk wat, en het onderhoud was allesbehalve goedkoop. Als student zijnde was het eigenlijk niet logisch om zo’n auto te hebben, dus besloot ik op zoek te gaan naar iets anders. Ik wilde iets kleiners, iets waar ik geen 'fuck' om hoefde te geven, maar wat wel alsnog leuk was. Na ongeveer twee maanden zoeken vond ik eindelijk de perfecte – of beter gezegd, imperfecte – auto.
