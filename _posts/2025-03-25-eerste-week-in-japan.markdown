@@ -50,6 +50,7 @@ Sinds gisteren ben ik al goed bevriend geraakt met mijn nieuwe Duitse huisgenoot
 De volgende dag trekken we eropuit richting Tokyo, en wel naar het beroemde Akihabara. Een bruisend winkelgebied, vooral bekend om zijn elektronicazaken. En als je van anime houdt, is dit echt the place to be.
 
 ![](/assets/images/eerste-week/PXL_20250320_034624320.MP.jpg)
+![](/assets/images/eerste-week/IMG-20250725-WA0046.jpg)
 
 Hoewel ik het vroeger af en toe keek, doe ik dat tegenwoordig eigenlijk niet meer. Dus ik wist niet wat me overkwam toen ik ineens tussen de gigantische warenhuizen vol anime-prullaria stond. Gelukkig stond er buiten ook nog een dikke auto — voor ieder wat wils.
 
