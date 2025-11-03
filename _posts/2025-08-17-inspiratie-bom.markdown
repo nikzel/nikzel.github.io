@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Inspiratie bom"
+title:  "collectie plaatjes #1"
 date: 2025-08-17 22:41:05 +0200
 categories: post japan
 comments: true
 menu: 
-image: 
-preview: ""
+image: plaatjes_1.jpg
+preview: "Foto's van dingen die ik tegen ben gekomen in Japan die ik wel uniek/inspirerend/cool vond"
 images:
 - https://nick-blog-pull-zone.b-cdn.net/inspiratie-bom/download.jpeg
 - https://nick-blog-pull-zone.b-cdn.net/inspiratie-bom/download.png

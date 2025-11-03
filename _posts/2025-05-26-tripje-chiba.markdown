@@ -12,19 +12,21 @@ Inmiddels ben ik zo een 2 maanden in Japan, en ik heb een goede band kunnen sche
 
 Chiba ligt aan de overkant van de baai van Yokohama / Tokyo. Het is een stad, maar ook het hele schiereiland heet Chiba. Vol natuur, kleine dorpjes en weinig toerisme. En vrij makkelijk bereikbaar, met de brug/tunnel kombinatie steek je gemakkelijk over met een bus vanaf Yokohama centraal. En je krijgt een mooi beeld van de Yokohama skyline!
 
-PXL_20250523_012030517.MP.jpg
+![yokohama_skyline](https://nick-blog-pull-zone.b-cdn.net/tripje-chiba/PXL_20250523_012030517.MP.jpg)
 
-Na de busrit eindigen we in Tatayama. De grootste stad van de peninsula, naast Chiba zelf dus. Het heeft een kasteel waar we even in zijn gaan kijken. Het bied gelijk een mooi uitzicht over de hele stad! Daarna hebben we nog iets meer van de stad gezien, en zelfs nog een kleine schildpad zien zwemmen. 
+Na de busrit eindigen we in Tateyama. De grootste stad van de peninsula, naast Chiba zelf dus. Het heeft een kasteel waar we even in zijn gaan kijken. Het bied gelijk een mooi uitzicht over de hele stad! Daarna hebben we nog iets meer van de stad gezien, en zelfs nog een kleine schildpad zien zwemmen. 
 
-PXL_20250523_050134597.MP.jpg
+![kasteel](https://nick-blog-pull-zone.b-cdn.net/tripje-chiba/PXL_20250523_050134597.MP.jpg)
 
-Vervolgens gingen we richting onze AirBnB, die eigenlijk aan de andere kant van Tatayama ligt. Het was een.. andere ervaring dan origineel verwacht. We stappen uit bij een station wat een beetje in de middle of nowhere ligt. Maar recht naast het station bevind zich een groot baksteen van een gebouw, met daarop: 'W station hotel'. Huh? Maar we hadden toch een AirBnB? Ja & Nee. 
+Vervolgens gingen we richting onze AirBnB, die eigenlijk aan de andere kant van het schiereiland ligt. Het was een.. andere ervaring dan origineel verwacht. We stappen uit bij een station wat een beetje in de middle of nowhere ligt. Maar recht naast het station bevind zich een groot baksteen van een gebouw, met daarop: 'W station hotel'. Huh? Maar we hadden toch een AirBnB? Ja & Nee. 
+
+![w_station](https://nick-blog-pull-zone.b-cdn.net/tripje-chiba/PC-1-qm95v3ntrt8wsym9p7q8dlwnbrqhoap7ah3rx496y8.jpg)
 
 De binnenkomst was ons gelijk lastig gemaakt. AirBnB vertelde iets over een code die te vinden moet zijn buiten de deur. Deze was nergens te vinden. Gelukkig bood een behulpzame japanse mevrouw aan om ons te helpen. Ze belde met de AirBnB eigenaar, en die gaf ons op die manier de code van de entree. Stap 1 is geslaagd. 
 
 Maar de volgende stap zou moeten zijn dat we een kleine kluis openen om onze eigen kamer sleutel daar uit te halen. Ook dit ging niet even makkelijk als gehoopt, want de code die we kregen klopte niet. Verbaasd en radeloos staan we in een compleet leeg en donker hotel, zonder eigen kamer. Maar het duurde niet lang voordat we het hotel eens gingen onderzoeken, en al snel kwamen we er achter dat _elke kamer_ open was. Dat maakt het een stuk makkelijker! 
 
-Na eenmaal onze spullen gedropt te hebben en genoeg van ons hotel airbnb combinatie gezien te hebben, gingen we ergen heen om wat te eten. Bij de AirBnB zaten 3 paar fietsen wat geweldig uitkwam. Het waren zeker geen comfortabele fietsen, maar het is wat het is. We eindigen bij een soort Izakaya, weer ver van de bewoonde wereld. Met gebrekkig japans vragen we de eigenaar hoeveel buitenlanders er gemiddeld per jaar komen. Het antwoord was 3! 
+Na eenmaal onze spullen gedropt te hebben en verstoppertje gespeeld te hebben in onze airbnb hoel combinatie, gingen we ergens heen om wat te eten. Bij de AirBnB zaten 3 paar fietsen wat geweldig uitkwam. Het waren zeker geen comfortabele fietsen, maar het is wat het is. We eindigen bij een soort Izakaya, weer ver van de bewoonde wereld. Met gebrekkig japans vragen we de eigenaar hoeveel buitenlanders er gemiddeld per jaar komen. Het antwoord was 3! 
 
 PXL_20250523_094941377.MP.jpg
 PXL_20250523_095820421.MP.jpg
