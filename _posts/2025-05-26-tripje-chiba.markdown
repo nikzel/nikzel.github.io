@@ -12,11 +12,11 @@ Inmiddels ben ik zo een 2 maanden in Japan, en ik heb een goede band kunnen sche
 
 Chiba ligt aan de overkant van de baai van Yokohama / Tokyo. Het is een stad, maar ook het hele schiereiland heet Chiba. Vol natuur, kleine dorpjes en weinig toerisme. En vrij makkelijk bereikbaar, met de brug/tunnel kombinatie steek je gemakkelijk over met een bus vanaf Yokohama centraal. En je krijgt een mooi beeld van de Yokohama skyline!
 
-![yokohama_skyline](https://nick-blog-pull-zone.b-cdn.net/tripje-chiba/PXL_20250523_012030517.MP.jpg)
+![yokohama_skyline](https://nick-blog-pull-zone.b-cdn.net/tripje-chiba/PXL_20250523_012030517.MP_result.jpg)
 
 Na de busrit eindigen we in Tateyama. De grootste stad van de peninsula, naast Chiba zelf dus. Het heeft een kasteel waar we even in zijn gaan kijken. Het bied gelijk een mooi uitzicht over de hele stad! Daarna hebben we nog iets meer van de stad gezien, en zelfs nog een kleine schildpad zien zwemmen. 
 
-![kasteel](https://nick-blog-pull-zone.b-cdn.net/tripje-chiba/PXL_20250523_050134597.MP.jpg)
+![kasteel](https://nick-blog-pull-zone.b-cdn.net/tripje-chiba/IMG-20250608-WA0008.jpg)
 
 Vervolgens gingen we richting onze AirBnB, die eigenlijk aan de andere kant van het schiereiland ligt. Het was een.. andere ervaring dan origineel verwacht. We stappen uit bij een station wat een beetje in de middle of nowhere ligt. Maar recht naast het station bevind zich een groot baksteen van een gebouw, met daarop: 'W station hotel'. Huh? Maar we hadden toch een AirBnB? Ja & Nee. 
 
@@ -28,34 +28,38 @@ Maar de volgende stap zou moeten zijn dat we een kleine kluis openen om onze eig
 
 Na eenmaal onze spullen gedropt te hebben en verstoppertje gespeeld te hebben in onze airbnb hoel combinatie, gingen we ergens heen om wat te eten. Bij de AirBnB zaten 3 paar fietsen wat geweldig uitkwam. Het waren zeker geen comfortabele fietsen, maar het is wat het is. We eindigen bij een soort Izakaya, weer ver van de bewoonde wereld. Met gebrekkig japans vragen we de eigenaar hoeveel buitenlanders er gemiddeld per jaar komen. Het antwoord was 3! 
 
-PXL_20250523_094941377.MP.jpg
-PXL_20250523_095820421.MP.jpg
+![](https://nick-blog-pull-zone.b-cdn.net/tripje-chiba/PXL_20250523_094941377.MP_result.jpg)
+![](https://nick-blog-pull-zone.b-cdn.net/tripje-chiba/PXL_20250523_095820421.MP_result.jpg)
 
 Het eten was heerlijk, en ook erg avontuurlijk. Na de maaltijd fietsen we terug naar ons bijzondere hotel. 
 
 De volgende dag staat in het teken van *geen idee wat de naam is?*. Het is een groot boedha standbeeld dat lang geleden uitgegraven is uit een berg. Erg indrukwekkend om te zien, en schijnbaar ook het grootste boedha standbeeld van Japan! 
 
-PXL_20250524_030654481.jpg
+![](https://nick-blog-pull-zone.b-cdn.net/tripje-chiba/PXL_20250524_030654481_result.jpg)
 
 Daarnaast is er een cliff die 'the view from hell' heet wat erg indrukwekkend is. Natuurlijk staat er een grote rij voor om een foto te kunnen maken op de rots. 
 
-PXL_20250524_034536894.MP.jpg
-PXL_20250524_034812027.MP.jpg
+![](https://nick-blog-pull-zone.b-cdn.net/tripje-chiba/PXL_20250524_034536894.MP_result.jpg)
+![](https://nick-blog-pull-zone.b-cdn.net/tripje-chiba/PXL_20250524_034812027.MP_result.jpg)
 
 Na dit ontdekt te hebben gaan we naar een lokaal restaurantje. Deze serveerde hele goede lunch sets, alleen moet je er wel even geduld voor hebben- iets wat wij niet echt hadden, omdat de treinen maar eens in de 2 uur gingen. We haasten ons naar de kassa om te betalen wanneer de beste man ons een rit naar het station aanbied! Uiteindelijk dus gestrest om niks :). 
 
-PXL_20250524_045226975.MP.jpg
-PXL_20250524_052855926.MP.jpg
-PXL_20250524_060039851.MP.jpg
+![](https://nick-blog-pull-zone.b-cdn.net/tripje-chiba/PXL_20250524_045226975.MP_result.jpg)
+![](https://nick-blog-pull-zone.b-cdn.net/tripje-chiba/PXL_20250524_052855926.MP_result.jpg)
+![](https://nick-blog-pull-zone.b-cdn.net/tripje-chiba/PXL_20250524_060039851.MP_result.jpg)
 
 Vervolgen zijn we nog wezen kijken bij een strand met een pier. Het is niet echt zwem weer, dus we hielden het nog even droog. Naja, tot het kort erna begon te regenen. 
 
-PXL_20250524_075239544.MP.jpg
-IMG-20250525-WA0003.jpg
+![](https://nick-blog-pull-zone.b-cdn.net/tripje-chiba/PXL_20250524_075239544.MP_result.jpg)
+![](https://nick-blog-pull-zone.b-cdn.net/tripje-chiba/IMG-20250525-WA0003_result.jpg)
 
 Volgende ochtend is het geen lekker weer, maar we laten ons niet stoppen- we gaan zwemmen. Een prachtig ruige zee waar helemaal niemand anders te vinden was. Het water was erg koud en ik ben een aantal keer bijna verdronken, maar het was wel verfrissend. 
 
-PXL_20250525_003849846.mp4
+<center>
+  <video controls preload="true" width="450">
+    <source src="https://nick-blog-pull-zone.b-cdn.net/tripje-chiba/PXL_20250525_003849846.mp4" type="video/mp4">
+  </video>
+</center>
 
 Daarna hebben we ons omgekleed en zijn we weer opweg naar huis gegaan! 
 
