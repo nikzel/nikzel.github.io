@@ -4,7 +4,7 @@ title:  "collectie plaatjes #1"
 date: 2025-08-17 22:41:05 +0200
 categories: post japan
 comments: true
-menu:
+menu: 
 image: plaatjes_1.jpg
 preview: "Foto's van dingen die ik tegen ben gekomen in Japan die ik wel uniek/inspirerend/cool vond"
 images:

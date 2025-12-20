@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tripje naar Izu"
+title:  "tripje naar Izu"
 date: 2025-05-10 22:41:05 +0200
 categories: post japan
 comments: true
